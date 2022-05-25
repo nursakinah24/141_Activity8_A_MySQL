@@ -30,7 +30,7 @@ public class TambahTeman extends AppCompatActivity {
     String nm, tlp;
     int success;
 
-    private static String url_insert = "http://127.0.0.1/umyTI/tambahtmn.php";
+    private static String url_insert = "https://20200140141.praktikumtiumy.com/tambahtmn.php";
     private static final String TAG = TambahTeman.class.getSimpleName();
     private static final String TAG_SUCCESS = "success";
 
